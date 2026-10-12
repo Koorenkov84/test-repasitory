@@ -1,0 +1,66 @@
+
+body {
+    font-size: 24px;
+}
+
+/* Цвета текста */
+.red {
+    color: red;
+}
+
+.red {
+    color: red;
+}
+/*начертание*/
+.bold {
+    font-weight: bold;
+}
+
+/* Разные цвета для элементов списка */
+.list-item-1 {
+    color: blue;
+}
+
+.list-item-2 {
+    color: red;
+}
+
+.sublist-item-1 {
+    color: purple;
+}
+
+.sublist-item-2 {
+    color: green;
+}
+
+/* Размеры шрифта */
+.xxsmall {
+    font-size: 10px;
+}
+
+.xsmall {
+    font-size: 20px;
+}
+
+.small {
+    font-size: 30px;
+}
+
+.medium {
+    font-size: 40px;
+}
+
+.large {
+    font-size: 50px;
+}
+
+.xlarge {
+    font-size: 60px;
+}
+
+.xxlarge {
+    font-size: 70px;
+ }   
+ p.black-text {
+    color: black;
+}
